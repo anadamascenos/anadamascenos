@@ -1,6 +1,6 @@
 ## Oi, sou a Ana Damasceno, 
 
-Estudante de Banco de Dados, Bem Vindo ao Meu GitHub!
+Estudante de Banco de Dados, estagiária na Quero Educação Bem Vindo ao Meu GitHub!
 <div align="center">
   <a href="https://github.com/anadamascenos">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=anadamascenos&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
